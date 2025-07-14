@@ -19,10 +19,10 @@ const Index = () => {
             </li>
             <li>
               <Link
-                href="/contatos"
+                href="/sobre"
                 className="hover:text-yellow-400 transition-colors"
               >
-                Contatos
+                Sobre
               </Link>
             </li>
           </ul>
